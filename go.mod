@@ -1,1 +1,3 @@
-module github.com/moshelior/websocket
+module github.com/synopsys-sig/websocket
+
+go 1.13
